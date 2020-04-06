@@ -4,7 +4,7 @@
 
 ## Elevator Pitch
 
-*A one sentence pitch for your game. Pretend that your were pitching your game to a executive going to the elevator. You have less than 60 Seconds. Check [this resource](http://www.gameacademy.com/perfecting-indie-games-elevator-pitch/) for more information.*
+Computer science is a growing industry. Now that there is much demand for computer scientists, better programmers are wanted. The best way for better programmers is to start children learning early. Our game will teach children important concepts regarding computer science. Starting them young will make them better programmers later in life.
 
 ## Influences (Brief)
 
@@ -128,9 +128,7 @@ You begin in a level selector, where each level is a few lines of code represent
     
 ## Feedback
 
-*Explicitly describe what visual/audio/animation indicators there are that give players feedback on their progress towards their gameplay objectives (and ideally the learning objectives).*
-
-*Describe what longer-term feedback you detect and give that guides the player in their learning and lets them know how they are doing in regards to the learning objectives.*
+The shorter the time you complete the game in, the more points you will recieve. You will be able to see if players understand concepts and how well they are doing based on how many points they get. Long term wise, our mechanics and game designs build off of the lower level concepts. So you should be able to do all the puzzles if you begin to actually learn the concepts presented
 
 # Story and Gameplay
 
