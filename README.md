@@ -33,7 +33,7 @@
 
 ## Learning Domains
 
-*Briefly list any and all of the disciplines and learning domains for this subject.*
+This game uses analyzing applying and understanding concepts that are comonplace in the world of programming, such as scope, loops, and recursion. 
 
 ## Target Audiences
 
@@ -44,8 +44,6 @@ Those in k-12 playing these games during computer lab to gain interest in comput
 K-12 computer labs during free time, high school labs during free time, possibly college 
 
 ## Learning Objectives
-
-
 
 - *Short Name*: By the end of the game, players will be able to predict the behavior of a for loop in the context of the game, and match the in-game components to components of a real coding for loop
 - *Short Name*: By the end of the game, players will be able to predict the behavior of a for while loop in the context of the game, and match the in-game components to components of a real coding for loop
@@ -142,16 +140,15 @@ The first few levels will have popups that explain the mechanics in a quick and 
 
 ## Presentation of Content
 
-*Briefly describe how the player will be taught the core material they are meant to learn. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching material iteratively and slowly.*
+Learning Objectives will be taught through the completion of puzzles and will also be given as little interaction windows to gain more knowledge of the learning objectives
 
 ## Story (Brief)
 
-*The Summary or TL;DR version of below*
+The game begins with someone programming some simple functions. When you start the game you zoom into one of the functions and play through the level as one of the variables in the scenario, as if you were increasing in value, or having your value assigned to a different value. You progress through a set of functions that are all being called by a Main function (which is the boss), so you can see how a single variable progresses through the function, using helper functions and temporary varibles (powerups) to allow you to get through the levels more easily.
 
 ## Storyboarding
 
 https://imgur.com/a/qI00Al2
-*Go into as much detail as needs be to visually convey the Dynamics of your game. Be detailed. Create storyboards and freeze frame images that concisely capture important key elements of your game. You are strongly recommended to sketch pictures on paper and embed them here. Be sure make it clear how previously-described mechanics come through in the dynamics.*
 
 # Assets Needed
 
