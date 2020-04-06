@@ -107,14 +107,25 @@ You begin in a level selector, where each level is a few lines of code represent
 
 # Objects/Entities
 
-- Levels
+- Levels -> including puzzles, platforming, and enemies
 - Enemy -> running into these enemies moving around will cause you to lose a life and reset your level
+- Spikes -> same thing as enemies
+- Coins -> pickup to gain points
+- Levers -> open doors / passageways
+- Doors -> open up with lever
+- Player -> a variable that depends on the level
 
 ## Core Gameplay Mechanics (Detailed)
 
-- *Core Gameplay Mechanic #1*: *Describe in 2 paragraphs or less, along with how it generally works*
-- *Core Gameplay Mechanic #2*: *Describe in 2 paragraphs or less, along with how it generally works*
-- *Core Gameplay Mechanic #3*: *Describe in 2 paragraphs or less, along with how it generally works*
+- *Core Gameplay Mechanic #1*: Movement
+  -There are many different kinds of movement. Using the arrow keys, you can move left with left, right with right, jump with up or spacebar, and you can crouch with down. You can avoid enemies by jumping past them or running away from them. You also need to use this movement to reach the end of levels, or pull levers to complete puzzles.
+- *Core Gameplay Mechanic #2*: Interactions
+  -You can interact with levers and buttons by pressing the e key
+  -If you touch a spike or enemy you lose a life and respawn
+  -You can pick up coins to increase your points
+  -You can jump on platforms to progress through the levels
+- *Core Gameplay Mechanic #3*: Puzzles
+  -You can complete puzzles through things like pressing levers, avoiding enemies and spikes, picking up things in a certain order, destroying things in a certain order, etc.
 
     
 ## Feedback
@@ -127,7 +138,7 @@ You begin in a level selector, where each level is a few lines of code represent
 
 ## Presentation of Rules
 
-*Briefly describe how the player will learn the gameplay mechanics. Avoid using walls of text, since people will not read them. Think instead of natural ways of teaching mechanics iteratively and slowly.*
+The first few levels will have popups that explain the mechanics in a quick and efficient manor. There will be points displayed at the top, as well as lives so the player will understand there is a certain amount of lives and score.
 
 ## Presentation of Content
 
