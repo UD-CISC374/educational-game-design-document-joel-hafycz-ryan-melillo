@@ -148,17 +148,24 @@ The game begins with someone programming some simple functions. When you start t
 
 https://imgur.com/a/qI00Al2
 
+https://imgur.com/a/iiAXZvp
+
 # Assets Needed
 
 ## Aethestics
 
 *Give a sense of the aesthetics of your game, the spirit and atmosphere. Use descriptive, evocative words that can help the reader understand the emotional response of your game.*
 
+The game will put you "inside" of the code; The player will be the various elements of the loop, the enemies will be distractions or problems(video games, missing semi-colons, etc.). There will be an upbeat 8-bit feel to the game, and similar to the description of Inde the Cat, will be cartoonish and light-hearted to build a positive atmosphere. Think Cuphead aesthetically but a bit less creepy and more 8-bit style (and certainly less difficult). 
+
 ## Graphical
 
 - Characters List
-  - *Characters 1*
-  - *Characters 2*
+  - Elements of Array as Player moving through level
+  - Enemies:
+    - Video game references
+    - Common Coding Errors(" missing ; ")
+    - Other funny/common distractions
   - *...*
 - Textures:
   - *Texture 1*
@@ -176,14 +183,17 @@ https://imgur.com/a/qI00Al2
 *Game region/phase/time are ways of designating a particularly important place in the game.*
 
 - Music List (Ambient sound)
-  - *Game region/phase/time*: *Example 1*, *Example 2*
+  - General game music: https://www.youtube.com/watch?v=jHcWhQUmJ8E
   - *Game region/phase/time*: *Example 3*, *Example 4*
   
 *Game Interactions are things that trigger SFX, like character movement, hitting a spiky enemy, collecting a coin.*
 
 - Sound List (SFX)
-  - *Game Interaction*: *Example 1*, *Example 2*
-  - *Game Interaction*: *Example 3*, *Example 4*
+  - Jump mario like PING sound
+  - Boop sound for landing on enemies
+  - Cheesey death sound for being hit by enemies
+  - Some silly video-game rage sound clip for falling into the deathly clutches of video game land
+  - superrrrr cheesy, overly joyous end of level sound
 
 
 # Metadata
