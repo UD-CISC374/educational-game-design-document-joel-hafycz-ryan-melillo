@@ -174,6 +174,9 @@ You click on the first level and start it
 You are a robot completing the functions displayed in each level.
 You move boxes, avoid enemies, ect, to emulate the action of completing a function
 
+Level Design linked here
+https://github.com/UD-CISC374/educational-game-project-joel-hafycz-ryan-melillo/projects/1
+
 # Assets Needed
 
 ## Aethestics
